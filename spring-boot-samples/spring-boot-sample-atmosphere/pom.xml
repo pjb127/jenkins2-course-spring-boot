@@ -8,8 +8,8 @@
 		<version>1.4.0.BUILD-SNAPSHOT</version>
 	</parent>
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
-	<name>Spring Boot Atmosphere Sample</name>
-	<description>Spring Boot Atmosphere Sample</description>
+	<name>Spring Boot Atmosphere Sample (pjb)</name>
+	<description>Spring Boot Atmosphere Sample (pjb)</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
 		<name>Pivotal Software, Inc.</name>
